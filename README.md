@@ -1,2 +1,2 @@
-# FaceReconition
-Face Reconition System base on Pytorch
+# FaceRecognition
+Face Recognition System base on Pytorch
